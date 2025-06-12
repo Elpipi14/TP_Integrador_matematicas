@@ -56,3 +56,8 @@ años_nacimientos = [2003, 1999, 2000]`
 | **5.1 Producto cartesiano** | Se cruza cada año de nacimiento con todas las edades posibles al año actual |
 
 ---
+
+## 📎 Anexos
+
+**🎥 Video explicativo:**  
+[Ver en YouTube](https://www.youtube.com/watch?v=ZkS6nut9DOk)
